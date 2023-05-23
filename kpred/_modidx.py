@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://sky1ove.github.io',
                 'git_url': 'https://github.com/sky1ove/kpred',
                 'lib_path': 'kpred'},
-  'syms': {'kpred.core': {'kpred.core.foo': ('core.html#foo', 'kpred/core.py')}}}
+  'syms': { 'kpred.core': {'kpred.core.foo': ('core.html#foo', 'kpred/core.py')},
+            'kpred.feature': {'kpred.feature.foo': ('core.html#foo', 'kpred/feature.py')}}}
